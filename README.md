@@ -1,9 +1,9 @@
 # EVM-based Chains
-
+https://github.com/github/roadmap/issues/933
 The source data is in _data/chains. Each chain has its own file with the filename being the [CAIP-2](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md) representation as name and `.json` as extension.
 
 ## Example
-
+https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api?apiVersion=2022-11-28#basic-authentication
 ```json
 {
   "name": "Ethereum Mainnet",
